@@ -51,6 +51,9 @@ Defines how traffic flows between networks.
 Firewall rules controlling inbound/outbound traffic.
 
 ---
+ Architecture Workflow
+
+![OpenVPN Architecture](./a_readme_file_image_and_a_network_architecture_dia.png)
 
 ## ⚙️ OpenVPN Setup Commands
 
