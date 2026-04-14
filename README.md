@@ -51,9 +51,8 @@ Defines how traffic flows between networks.
 Firewall rules controlling inbound/outbound traffic.
 
 ---
- Architecture Workflow
-
-![OpenVPN Architecture](./VPN routing setup for EC2 instances.png)
+## 🏗️ Architecture Workflow
+![OpenVPN Architecture](./VPN%20routing%20setup%20for%20EC2%20instances.png)
 
 ## ⚙️ OpenVPN Setup Commands
 
