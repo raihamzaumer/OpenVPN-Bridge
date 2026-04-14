@@ -52,7 +52,7 @@ Firewall rules controlling inbound/outbound traffic.
 
 ---
 ## 🏗️ Architecture Workflow
-![OpenVPN Architecture](./VPN%20routing%20setup%20for%20EC2%20instances.png)
+![OpenVPN Architecture](./vpn-routing-ec2.png)
 
 ## ⚙️ OpenVPN Setup Commands
 
