@@ -1,0 +1,107 @@
+# ================================
+# OS & System Files
+# ================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ================================
+# Logs
+# ================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ================================
+# Environment Variables
+# ================================
+.env
+.env.*
+*.env
+
+# ================================
+# OpenVPN Sensitive Files 🚨
+# ================================
+*.ovpn
+*.key
+*.crt
+*.pem
+*.p12
+*.pfx
+*.csr
+ta.key
+
+# ================================
+# SSH Keys
+# ================================
+*.pem
+*.ppk
+id_rsa
+id_rsa.pub
+
+# ================================
+# AWS Credentials
+# ================================
+.aws/
+credentials
+config
+
+# ================================
+# Terraform (if used)
+# ================================
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# ================================
+# Docker
+# ================================
+docker-compose.override.yml
+
+# ================================
+# Node / Frontend (if any)
+# ================================
+node_modules/
+dist/
+build/
+.next/
+
+# ================================
+# Python (if backend scripts used)
+# ================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.envrc
+
+# ================================
+# IDE / Editor Files
+# ================================
+.vscode/
+.idea/
+*.iml
+
+# ================================
+# Temporary Files
+# ================================
+tmp/
+temp/
+*.tmp
+
+# ================================
+# Backup Files
+# ================================
+*.bak
+*.old
+*.backup
